@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="33e358b115b05a490c1a1f69da117076c3d7e56b">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b18f5fd2fa26481c997ec4d719214ccb245a955e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_db45a9b89b5772de314ad9266479dfbd50a47e08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Timsnky\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_590f132d29e40cadd5888fe00343e7acf112a887\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_002335e1f3fe2c6a3c2af8f31de0e919650a88a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_8bc00b8ff26ad3530440dc1f56aa8eb2e0756423\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4908bc598d976831167a3911f1601b1f1b536894">
+        <dex dex="C:\Users\Timsnky\Dropbox\Programming\Android Studio\MyMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e3a3d189e6de36b8810ac0c17c21f1b038b798da\classes.dex" />
+    </item>
+
+</items>

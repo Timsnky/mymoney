@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="80dp"
+        android:id="@+id/dateTextView"/>
+    <TextView
+        android:layout_height="wrap_content"
+        android:id="@+id/detailsTextView"
+        android:layout_width="100dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:id="@+id/accountTextView"
+        android:layout_width="40dp"/>
+    <TextView
+        android:layout_height="wrap_content"
+        android:id="@+id/debitTextView"
+        android:layout_width="80dp"/>
+    <TextView
+        android:layout_height="wrap_content"
+        android:id="@+id/creditTextView"
+        android:layout_width="80dp "/>
+</TableRow>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Money</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Expenses and Income</item>
+        <item >Debtors and Creditors</item>
+        <item >Investments</item>        
+        <item>Settings</item>
+        <item >ACCOUNTS</item>
+        <item >Bank</item>
+        <item >Cash</item>
+        <item >Mobile</item>
+        <item >Online</item>
+        <item >Other</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_expenses</item>
+        <item>@drawable/ic_debcred</item>
+        <item>@drawable/ic_investment</item>
+        <item>@drawable/ic_settings</item>
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_cash</item>
+        <item>@drawable/ic_mobile</item>
+        <item>@drawable/ic_online</item>
+        <item>@drawable/ic_other</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+     <!-- Home-->
+    <string name="details">Details</string>
+    <string name="debit">DR</string>
+    <string name="credit">CR</string>
+    <string name="opening">Opening Balance</string>
+    <string name="closing">Closing Balance</string>
+    <string name="available">Available Balance</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="debtors">Debtors</string>
+    <string name="creditors">Creditors</string>
+    <string name="investments">Investments</string>
+
+    <!-- Expenses View -->
+    <string name="getTransactions">Retrieve Transactions</string>
+    <string name="date">Date</string>
+    <string name="account">Acc</string>
+    <string name="accountBalance">Acc Bal</string>
+    <string name="transaction"><b>TRANSACTIONS</b></string>
+    <string name="startDate">Start Date</string>
+    <string name="stopDate">Stop Date</string>
+    <string name="add"><b>ADD NEW</b></string>
+    <string name="startup"><b>STARTUP</b></string>
+
+    <!--Add Expenses View -->
+    <string name="category">Category</string>
+    <string name="accounts">Account</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="saveTransfer">Save Transfer</string>
+    <string name="saveTransaction">Save Transaction</string>
+    <string name="addAccount">Add an Account</string>
+
+    <!--Add  View -->
+    <string name="create">Create Account</string>
+    <string name="clear">Clear Account</string>
+
+</resources>

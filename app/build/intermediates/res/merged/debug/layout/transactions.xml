@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/titleTextView" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/office_green" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:text="New Text"
+        android:id="@+id/totalTextView1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:text="New Text"
+        android:id="@+id/totalTextView2" />
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/horizontalScrollView">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:text="@string/date"
+                    android:layout_width="80dp"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:text="@string/details"
+                    android:layout_width="100dp"/>
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:text="@string/account"
+                    android:layout_width="40dp"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:text="@string/debit"
+                    android:layout_width="80dp"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:text="@string/credit"
+                    android:layout_width="80dp"/>
+
+            </TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/office_green" />
+
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/transactionsScrollView" >
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/transactionsLayout">
+                </LinearLayout>
+
+            </ScrollView>
+
+
+
+        </LinearLayout>
+
+            </HorizontalScrollView>
+</LinearLayout>
